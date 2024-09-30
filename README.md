@@ -1,3 +1,2 @@
 # recsys
-
-[test 1](test1.md)
+[Collaborative filtering](collaborative-filtering.md)
