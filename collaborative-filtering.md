@@ -2,6 +2,5 @@
 title: Collaborative filtering
 filename: collaborative-filtering.md
 ---
-
-# Item-item collaborative filtering
-* 
+# Collaborative filtering
+* Item-item collaborative filtering [en | [id](notebooks/item-item-filtering-id.html) ]
